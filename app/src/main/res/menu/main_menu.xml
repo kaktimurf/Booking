@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/listele"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:orderInCategory="1"
+        android:title="Listele"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ilanver"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:orderInCategory="1"
+        android:title="İlan ver"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/cıkıs"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:orderInCategory="1"
+        android:title="Çıkış"
+        app:showAsAction="never" />
+
+</menu>
